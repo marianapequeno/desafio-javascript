@@ -2,6 +2,8 @@
 
 ## Desafio de API - Github Search
 
+:construction: *Não finalizado*
+
 Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para recuperar informações do usuário quando um nome de usuário válido é inserido. Ele deve exibir avatar, nome de usuário, contagem de seguidores, contagem de repositórios.
 
 # Links
@@ -58,4 +60,3 @@ Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para 
 - Por Pull Request. 
 
 
-:construction: *Não finalizado*
