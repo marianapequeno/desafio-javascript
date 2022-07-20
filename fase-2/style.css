@@ -66,7 +66,6 @@ body{
 .infos-profile{
   width: 250px;
   padding: 10px;
-  margin: auto;
 }
 
 .container-img-github{
@@ -177,7 +176,7 @@ body{
 }
 
 .ativo{
-  display: block;
+  display: flex;
 }
 
 .title-2{
@@ -193,6 +192,11 @@ body{
 
 .img-not-found{
   max-height: 50vh;
+}
+
+.p-not-repos{
+  height: 300px;
+  margin-top: 100px;
 }
 
 /*FOOTER*/

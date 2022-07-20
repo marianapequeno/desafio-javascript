@@ -41,12 +41,10 @@ const getGitHubData = async (user) => {
     const responseRepos = await fetch(urlRepos);
     const dataUser = await responseUser.json();
     const dataRepos = await responseRepos.json();
-
-    console.log(!!dataUser.id)
-    console.log(dataRepos.length===0)
-    if(!dataUser.id && !!dataRepos.message){ //user not found test: @0545mml
-      card1.classList.add("inativo");
-      card2.classList.replace("inativo", "ativo");
+    if(!dataUser.id){ //user not found test: @0545mml
+      card1.classList.replace("ativo", "inativo");
+      cardRepo.classList.replace("ativo", "inativo")
+      card2.classList.replace("inativo", "ativo");  
       notFoundUser.classList.replace("inativo", "ativo")
       notFoundRepos.classList.replace("ativo", "inativo");
     } else if(!!dataUser.id && dataRepos.length===0){ //User not repos test: @Raptor117spect
