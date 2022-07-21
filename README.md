@@ -2,11 +2,8 @@
 
 ## Desafio de API - Github Search
 
-- <a href="https://githubsearchfase1.netlify.app/">Link da fase 1</a>
-
-- <a href="https://githubsearchfase2.netlify.app/">Link da fase 2</a>
-
-:construction: *Não finalizado*
+- Veja como ficou a fase 1 👉 <a href="https://githubsearchfase1.netlify.app/">Link da fase 1</a>
+- Veja como ficou a fase 2 👉 <a href="https://githubsearchfase2.netlify.app/">Link da fase 2</a> -> (:construction: *Não finalizada*)
 
 Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para recuperar informações do usuário quando um nome de usuário válido é inserido. Ele deve exibir avatar, nome de usuário, contagem de seguidores, contagem de repositórios.
 
