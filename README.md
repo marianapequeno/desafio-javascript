@@ -25,7 +25,7 @@ Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para 
 
 **Exemplo**: 
 <p align="center">
-  <img src="./images/profile.png" />
+  <img src="fase-2/images/profile.png" />
 </p>
 
 - [ ] Validar campo de texto para não entrar texto vazio
@@ -35,7 +35,7 @@ Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para 
 
 **Exemplo**: 
 <p align="center">
-  <img src="./images/not-found.png" />
+  <img src="fase-2/images/not-found.png" />
 </p>
 
 
@@ -51,10 +51,10 @@ Neste projeto, foi criada uma aplicação de pesquisa que usa a API GitHub para 
 
 **Exemplo**: 
 <p align="center">
-  <img src="./images/profile-repos.png" />
+  <img src="fase-2/images/profile-repos.png" />
 </p>
 <p align="center">
-  <img src="./images/repos-nao-encontrado.png" />
+  <img src="fase-2/images/repos-nao-encontrado.png" />
 </p>
 
 ## Como vou entregar o projeto?
