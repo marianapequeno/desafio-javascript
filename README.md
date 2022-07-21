@@ -2,8 +2,9 @@
 
 ## Desafio de API - Github Search
 
-<a href="https://githubsearchfase1.netlify.app/">Link da fase 1</a>
-<a href="https://">Link da fase 2</a>
+- <a href="https://githubsearchfase1.netlify.app/">Link da fase 1</a>
+
+- <a href="https://githubsearchfase2.netlify.app/">Link da fase 2</a>
 
 :construction: *Não finalizado*
 
