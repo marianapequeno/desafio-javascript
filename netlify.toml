@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "fase-1/index.html"
+  status = 200
